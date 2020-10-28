@@ -1,0 +1,26 @@
+#tere {
+color= red
+}
+h1 {
+    color: green;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    text-align: left;
+    font-size: small;
+}
+
+#konn {
+    border-style:solid;
+}
+
+ul {
+    list-style-type: upper-roman;
+    font-size: large;
+}
+
+body {
+    background-color: aquamarine;
+}
